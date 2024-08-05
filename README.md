@@ -1,2 +1,2 @@
-# -javascript-roadmap-codewars
+# javascript-roadmap-codewars
 JavaScript Roadmap Codewars challenge
