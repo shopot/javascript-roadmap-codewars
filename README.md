@@ -14,6 +14,10 @@ https://roadmap.sh/javascript
 
 ###  Hoisting
 
+| Rank  | Kata |
+|:------| :------------ |
+| 7kyu  |[Hoisting](https://www.codewars.com/kata/5504b15fd181b977c30001d5/javascript)|
+
 ## JavaScript Scope
 
 ### Block
@@ -26,7 +30,15 @@ https://roadmap.sh/javascript
 
 ### string
 
+| Rank  | Kata |
+|:------| :------------ |
+| 8kyu  |[Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007/javascript)|
+
 ### number
+
+| Rank  | Kata |
+|:------| :------------ |
+| 8kyu  |[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/javascript)|
 
 ### bigint
 
