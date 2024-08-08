@@ -4,20 +4,13 @@
 
 https://roadmap.sh/javascript
 
-## Hello World
-
-| Rank | Kata |
-|:-----| :------------ |
-| 8 kyu |[Create your first JS function and print "Hello World!"](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)| 
-
-
 ## JavaScript basics
 
 | Rank  | Kata                                                                                                                           |
 |:------|:-------------------------------------------------------------------------------------------------------------------------------|
-| 8 kyu  | [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)                                            |
-| 8 kyu | [Basic data types --String](https://www.codewars.com/kata/571edd157e8954bab500032d)                                            |
-| 8 kyu | [Basic data types --Number](https://www.codewars.com/kata/571edd157e8954bab500032d)                                            |
+|8 kyu  | [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)                                            |
+|8 kyu | [Basic data types --String](https://www.codewars.com/kata/571edd157e8954bab500032d)                                            |
+|8 kyu | [Basic data types --Number](https://www.codewars.com/kata/571edd157e8954bab500032d)                                            |
 |8 kyu| [Basic data types --Array](https://www.codewars.com/kata/571effabb625ed9b0600107a)                                             |
 |8 kyu| [Basic data types --Object](https://www.codewars.com/kata/571f1eb77e8954a812000837)                                            |
 |8 kyu| [Basic data types --Boolean and conditional statements if..else](https://www.codewars.com/kata/571f832f07363d295d001ba8)       |
@@ -28,6 +21,12 @@ https://roadmap.sh/javascript
 |8 kyu| [Loop statement --break,continue](http://www.codewars.com/kata/5721c189cdd71194c1000b9b)                                       |
 |8 kyu| [Loop statement --for..in and for..of](http://www.codewars.com/kata/5722b3f0bd5583cf44001000)                                  |
 |8 kyu| [Unlock new skills --Arrow function,spread operator and deconstruction](http://www.codewars.com/kata/572ab0cfa3af384df7000ff8) |
+
+###  Hoisting
+
+| Rank  | Kata |
+|:------| :------------ |
+| 7kyu  |[Hoisting](https://www.codewars.com/kata/5504b15fd181b977c30001d5/javascript)|
 
 ... Hoisting, JavaScript Scope, Block, Function, Global
 
@@ -43,6 +42,7 @@ https://roadmap.sh/javascript
 |8 kyu| [Methods of String object --toUpperCase() toLowerCase() and replace()](http://www.codewars.com/kata/5728203b7fc662a4c4000ef3)   |
 |8 kyu| [Methods of String object --charAt() charCodeAt() and fromCharCode()](http://www.codewars.com/kata/57284d23e81185ae6200162a)    |
 |8 kyu| [Methods of String object --trim() and the string template](http://www.codewars.com/kata/5729b103dd8bac11a900119e)              |
+|8 kyu| [Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007/javascript)|
 
 ### Number primitive and Number Object
 
@@ -50,7 +50,8 @@ https://roadmap.sh/javascript
 |:------|:--------------------------------------------------------------------------------------------------------------------|
 | 8 kyu | [Number object and its properties](https://www.codewars.com/kata/5722fd3ab7162a3a4500031f)                          |
 | 8 kyu | [Methods of Number object--toString() and toLocaleString()](https://www.codewars.com/kata/57238ceaef9008adc7000603) |
-| 8 kyu | [Methods of Number object--toFixed(), toExponential() and toPrecision()](https://www.codewars.com/kata/57256064856584bc47000611)                                              |
+| 8 kyu | [Methods of Number object--toFixed(), toExponential() and toPrecision()](https://www.codewars.com/kata/57256064856584bc47000611)|
+| 8 kyu | [Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/javascript)|
 | 8 kyu | [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)                                           |
 | 8 kyu | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)                             |
 | 8 kyu | [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)                |
@@ -114,3 +115,4 @@ https://roadmap.sh/javascript
 |8 kyu| [Regular Expression --"\|", "[]" and "()"](http://www.codewars.com/kata/573d11c48b97c0ad970002d4)     |
 |8 kyu| [Regular Expression --"\"](http://www.codewars.com/kata/573e6831e3201f6a9b000971)                     |
 |8 kyu| [Regular Expression --(?:), (?=) and (?!)](http://www.codewars.com/kata/573fb9223f9793e485000453)     |
+
