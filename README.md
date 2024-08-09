@@ -105,7 +105,26 @@ https://roadmap.sh/javascript
 |6 kyu| [Highest Rank Number in an Array](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)|
 |3 kyu|[The soul of wit: reverse an array](https://www.codewars.com/kata/59b81886460387d8fc000043)|
 
-### Regular Expression
+## Classes
+
+| Rank  | Kata                                                                                                  |
+|:------|:------------------------------------------------------------------------------------------------------|
+| 8 kyu |[Classy Classes](https://www.codewars.com/kata/55a144eff5124e546400005a)|
+| 8 kyu |[Fun with ES6 Classes #1 - People, people, people](https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19)|
+| 7 kyu |[Fun with ES6 Classes #2 - Animals and Inheritance](https://www.codewars.com/kata/56f935002e6c0d55fa000d92)|
+| 7 kyu |[Fun with ES6 Classes #3 - Cuboids, Cubes and Getters](https://www.codewars.com/kata/56fbdda707cff41b68000de2)|
+| 7 kyu |[Fun with ES6 Classes #4 - Cubes and Setters](https://www.codewars.com/kata/56fcc1ee45040039ab0016da)|
+| 8 kyu |[SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes](https://www.codewars.com/kata/56ff9b53140fcca90b000530)|
+| 7 kyu |[Super Class Extensions](https://www.codewars.com/kata/55a14cd026f2a4b196000092)|
+| 6 kyu |[Fun with ES6 Classes #6 - Fake Files (Basic)](https://www.codewars.com/kata/5784c8116211383b5f0001d3)|
+| 6 kyu |[Hex class](https://www.codewars.com/kata/5483366098aa442def0009af)|
+| 6 kyu |[Defining getters and setters on an existing class](https://www.codewars.com/kata/55bcf04de45497c54a0000d0)|
+| 5 kyu |[Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)|
+| 4 kyu |[A simple Tic-tac-toe class](https://www.codewars.com/kata/529b9ec8064ec38636000134)|
+| 2 kyu |[class List](https://www.codewars.com/kata/59f7a040a5b820c684000046)|
+
+
+## Regular Expression
 
 | Rank  | Kata                                                                                                  |
 |:------|:------------------------------------------------------------------------------------------------------|
