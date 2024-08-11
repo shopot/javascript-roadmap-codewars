@@ -124,6 +124,25 @@ https://roadmap.sh/javascript
 | 2 kyu |[class List](https://www.codewars.com/kata/59f7a040a5b820c684000046)|
 
 
+## Design Patterns
+
+| Rank  | Kata                                                                                                  |
+|:------|:------------------------------------------------------------------------------------------------------|
+|7 kyu|[First-Class Function Factory](https://www.codewars.com/kata/563f879ecbb8fcab31000041)|
+|7 kyu|[Singleton Pattern](https://www.codewars.com/kata/534fcca5edb124cfe6000f60)|
+|7 kyu|[PatternCraft - Visitor](https://www.codewars.com/kata/5682e646d5eddc1e21000017)|
+|7 kyu|[PatternCraft - Adapter](https://www.codewars.com/kata/56919e637b2b971492000036)|
+|7 kyu|[Pure Functions](https://www.codewars.com/kata/59bdbe9d46038724ca0000b9)|
+|6 kyu|[Function Composition](https://www.codewars.com/kata/5421c6a2dda52688f6000af8)|
+|6 kyu|[PatternCraft - State](https://www.codewars.com/kata/5682e72eb7354b2f39000021)|
+|6 kyu|[PatternCraft - Strategy](https://www.codewars.com/kata/5682e809386707366d000024)|
+|5 kyu|[Function Cache](https://www.codewars.com/kata/525481903700c1a1ff0000e1)|
+|5 kyu|[Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5)|
+|5 kyu|[Simple Events](https://www.codewars.com/kata/52d3b68215be7c2d5300022f)|
+|5 kyu|[Decorator Pattern](https://www.codewars.com/kata/5314ce58288b818ddc00006a)|
+|4 kyu|[Dependency Injection](https://www.codewars.com/kata/5302d655be2a91068b0001fb)|
+|4 kyu|[Advanced Events](https://www.codewars.com/kata/52d4678038644497e900007c)|
+
 ## Regular Expression
 
 | Rank  | Kata                                                                                                  |
