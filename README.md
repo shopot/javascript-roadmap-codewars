@@ -105,6 +105,48 @@ https://roadmap.sh/javascript
 |6 kyu| [Highest Rank Number in an Array](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)|
 |3 kyu|[The soul of wit: reverse an array](https://www.codewars.com/kata/59b81886460387d8fc000043)|
 
+## Functions
+
+| Rank  | Kata                                                                                                          |
+|:------|:--------------------------------------------------------------------------------------------------------------|
+|8 kyu| [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)                                                                                               |
+|8 kyu| [Implement Array.prototype.filter()](https://www.codewars.com/kata/56dd9b84fe5754786f0014f7)                  |
+|8 kyu| [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)                       |
+|7 kyu| [Array.prototype.reverse()](https://www.codewars.com/kata/53b2ff49b82af296ce001139)                           |
+|7 kyu| [Array.prototype.size()](https://www.codewars.com/kata/58638bd2210be9a9690001f7)                              |
+|7 kyu| [Unpacking Arguments](https://www.codewars.com/kata/540de1f0716ab384b4000828)                                 |
+|7 kyu| [Sum of all arguments](https://www.codewars.com/kata/540c33513b6532cd58000259)                                |
+|7 kyu| [Lazily executing a function](https://www.codewars.com/kata/5458d4d2cbae2a9438000389)                         |
+|7 kyu| [Functional Addition](https://www.codewars.com/kata/538835ae443aae6e03000547)                                 |
+|7 kyu| [First-Class Function Factory](https://www.codewars.com/kata/563f879ecbb8fcab31000041)                        |
+|6 kyu| [Range function](https://www.codewars.com/kata/584ebd7a044a1520f20000d5)                                      |
+|5 kyu| [Function.prototype.clone](https://www.codewars.com/kata/53381a646068efc50100072c)                            |
+|5 kyu| [Array.prototype.splice(from, count, insertItems...)](https://www.codewars.com/kata/53b30ccc4a24088126000c45) |
+
+###  Higher-Order Functions
+
+| Rank  | Kata                                                                                                  |
+|:------|:------------------------------------------------------------------------------------------------------|
+|7 kyu|[Count the number of JavaScript developers](https://www.codewars.com/kata/582746fa14b3892727000c4f)|
+|7 kyu|[Greet developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)|
+|7 kyu|[Is Ruby coming?](https://www.codewars.com/kata/5827acd5f524dd029d0005a4)|
+|7 kyu|[Find the first Python developer](https://www.codewars.com/kata/5827bc50f524dd029d0005f2)|
+|7 kyu|[Prepare the count of languages](https://www.codewars.com/kata/5828713ed04efde70e000346)|
+|6 kyu|[Find the most senior developer](https://www.codewars.com/collections/higher-order-functions-series)|
+|6 kyu|[Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)|
+|6 kyu|[Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)|
+
+### Callback Functions
+
+| Rank  | Kata                                                                                                  |
+|:------|:------------------------------------------------------------------------------------------------------|
+|5 kyu|[Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)|
+|5 kyu|[Wrapped Function](https://www.codewars.com/kata/511ed4593ba69cba1a000002)|
+|5 kyu|[Concatenating functions](https://www.codewars.com/kata/527176c487961e5900000106)|
+|5 kyu|[Compose functions](https://www.codewars.com/kata/51f9d3db4095e07f130001ee)|
+|5 kyu|[Function Cache](https://www.codewars.com/kata/525481903700c1a1ff0000e1)|
+|5 kyu|[A Chain adding function](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)|
+
 ## Classes
 
 | Rank  | Kata                                                                                                  |
